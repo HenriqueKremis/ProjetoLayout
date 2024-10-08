@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="linear_layout">Open Linear Layout</string>
+    <string name="constraint_layout">Open Constraint Layout</string>
+    <string name="coordinator_layout">Open Coordinator Layout</string>
+    <string name="frame_layout">Open Frame Layout</string>
+    <string name="grid_layout">Open Grid Layout</string>
+    <string name="relative_layout">Open Relative Layout</string>
+    <string name="scrollview_layout">Open Scrollview Layout</string>
+
+    <string name="loremIpsum">
+        Lorem ipsum odor amet, consectetuer adipiscing elit. Condimentum tempus quisque suscipit dolor efficitur pretium sollicitudin tempor. Per finibus elit elementum vel, rutrum phasellus molestie magnis vel. Tempus porta varius, molestie tellus hendrerit natoque blandit penatibus. Sed elit mauris lectus blandit eros a vel lacinia. Primis inceptos natoque ad penatibus tincidunt feugiat hendrerit massa. Sit mollis ornare montes ridiculus quisque inceptos enim vel.
+
+        Feugiat lectus ante vel at nunc hendrerit fermentum risus. Tristique vulputate mi facilisis et, per orci hac eu ultrices. Justo est eu nibh venenatis penatibus. Aad sollicitudin enim fames tristique. Torquent mauris ultricies massa senectus volutpat per in eros. Egestas vestibulum nostra morbi risus ultrices. Penatibus augue phasellus amet risus conubia condimentum molestie ridiculus.
+
+        Eu magnis interdum volutpat vitae elementum. Magnis donec fringilla lectus metus imperdiet. Nascetur natoque egestas varius, netus curabitur vivamus. Pharetra magna convallis proin augue ante. Per taciti turpis magna gravida neque erat suspendisse nec. Urna consequat dictum gravida sagittis consectetur. Tempus pharetra pharetra commodo quam orci justo et. Eros elementum imperdiet et euismod nisl; ultricies bibendum. Lacus ridiculus ridiculus netus aptent mauris aliquam sed sodales efficitur.
+
+        Tincidunt in praesent cubilia sodales efficitur; non ultricies sapien quisque. Purus platea turpis at potenti accumsan dolor fringilla eleifend facilisis. Justo ligula parturient litora rutrum in nam. Quisque dignissim facilisi imperdiet vestibulum ullamcorper pharetra non. Ligula eget parturient et pretium; duis maximus imperdiet. Mollis etiam volutpat est nascetur mus eleifend nostra. Consectetur dolor sodales ullamcorper maximus molestie tempus accumsan aenean. Bibendum neque id mattis ac porta sem per consequat. Penatibus rutrum elit duis, suspendisse leo a nulla pulvinar hac. Duis erat vulputate eleifend volutpat et vitae elit himenaeos.
+
+        Augue viverra eget nostra pretium suspendisse vitae platea blandit. Metus parturient euismod feugiat consectetur etiam porttitor. Felis libero tellus ac arcu leo interdum ut. Felis penatibus dis consectetur hendrerit finibus risus felis a. Parturient et felis justo potenti fames. Platea sed dui nec ullamcorper potenti adipiscing id. Curae taciti senectus nec euismod aliquam, non torquent aenean mollis. Efficitur tellus vivamus congue suspendisse, duis malesuada. Vivamus varius metus ante risus luctus interdum nam odio. Semper proin facilisis adipiscing vestibulum duis rhoncus.
+    </string>
+
+</resources>
